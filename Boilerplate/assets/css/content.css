@@ -1,0 +1,11 @@
+.image {
+    width: 350px;
+    height: 200px;
+    background-color: red;
+    background-image: url('../img/patterns.png');
+    background-size: 50px;
+    background-repeat: no-repeat;
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    background-position: center bottom;
+}

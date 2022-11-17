@@ -1,0 +1,8 @@
+header {
+    height: 850px;
+    width: 100%;
+    background-color: red;
+    background-image: url(../img/sea.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
